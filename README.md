@@ -1,4 +1,4 @@
-# ФИО, группа. Лабораторная работа №1
+# Антончик Олег Евгеньевич, ЛА-1. Лабораторная работа №1
 
 Программа состоит из двух файлов: `lab.cpp` (решения задач и меню) и `input.h` (функции ввода с проверкой).
 
@@ -10,6 +10,9 @@ g++ -std=c++17 -o lab lab.cpp
 ```
 
 После запуска выводится меню. Задача выбирается двузначным номером: первая цифра означает номер задания, вторая номер задачи. Для выхода нужно ввести 0.
+
+<img width="539" height="240" alt="image" src="https://github.com/user-attachments/assets/80de0e53-ab2d-446d-9412-e6560bc50c01" />
+
 
 ## Проверка ввода
 
@@ -37,7 +40,7 @@ x=5,25
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="464" height="260" alt="image" src="https://github.com/user-attachments/assets/1d6bb73c-c167-4b4b-968f-33381300fc91" />
 
 ## Задача 3. Букву в число
 
@@ -57,7 +60,7 @@ x=’3’
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="309" height="193" alt="image" src="https://github.com/user-attachments/assets/8976bbba-5e09-476a-b60b-72c34bcfd00d" />
 
 ## Задача 5. Двузначное
 
@@ -81,7 +84,7 @@ x=516
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="463" height="328" alt="image" src="https://github.com/user-attachments/assets/4fa9a3bf-f5f7-4684-8229-b0d21783d5f9" />
 
 ## Задача 7. Диапазон
 
@@ -105,7 +108,7 @@ a=2 b=15 num=33
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="166" height="406" alt="image" src="https://github.com/user-attachments/assets/e2a40e23-97e6-4ee9-b2ab-6980a47c5a0e" />
 
 ## Задача 9. Равенство
 
@@ -129,7 +132,7 @@ a=2 b=15 c=2
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="176" height="299" alt="image" src="https://github.com/user-attachments/assets/8327cdc5-4247-40ec-9a7c-85742bc46ef4" />
 
 # Задание 2. Условия
 
