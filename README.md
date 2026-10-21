@@ -158,7 +158,7 @@ x=-3
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="159" height="200" alt="image" src="https://github.com/user-attachments/assets/e6e32181-82e9-41bf-8cfa-915081d466c3" />
 
 ## Задача 3. Тридцать пять
 
@@ -186,7 +186,7 @@ x=15
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="182" height="270" alt="image" src="https://github.com/user-attachments/assets/740a57ba-52b3-468c-993b-69335caa2bf8" />
 
 ## Задача 5. Тройной максимум
 
@@ -210,7 +210,7 @@ x=8 y=-1 z=4
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="187" height="303" alt="image" src="https://github.com/user-attachments/assets/46067c0e-74ff-4e34-9aa0-b50f93e1102e" />
 
 ## Задача 7. Двойная сумма
 
@@ -234,7 +234,7 @@ x=8 y=-1
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="162" height="334" alt="image" src="https://github.com/user-attachments/assets/cd18f3b4-5daa-4fa2-a7af-28af0aba9f71" />
 
 ## Задача 9. День недели
 
@@ -254,7 +254,7 @@ x=5
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="261" height="264" alt="image" src="https://github.com/user-attachments/assets/4ea02b07-0064-4b80-8782-d7598ac82177" />
 
 # Задание 3. Циклы
 
@@ -276,7 +276,7 @@ x=5
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="321" height="233" alt="image" src="https://github.com/user-attachments/assets/30280f06-a723-402d-8572-560a6342830e" />
 
 ## Задача 3. Четные числа
 
@@ -296,7 +296,7 @@ x=9
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="222" height="197" alt="image" src="https://github.com/user-attachments/assets/0da9b7f4-2317-4af5-b7ae-45d2f4c35ff2" />
 
 ## Задача 5. Длина числа
 
@@ -321,7 +321,7 @@ x=12567
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="175" height="205" alt="image" src="https://github.com/user-attachments/assets/346d8db6-7f3f-41c2-8e81-fe34681b1f87" />
 
 ## Задача 7. Квадрат
 
@@ -357,7 +357,7 @@ x=4
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="323" height="290" alt="image" src="https://github.com/user-attachments/assets/666b9034-0c1a-451c-9283-f38ed1e3fa58" />
 
 ## Задача 9. Правый треугольник
 
@@ -394,7 +394,7 @@ x=4
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="168" height="282" alt="image" src="https://github.com/user-attachments/assets/7a44cdbc-3171-4653-a9ab-6b114ea2a6b5" />
 
 # Задание 4. Массивы
 
@@ -419,7 +419,7 @@ x=2
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="161" height="406" alt="image" src="https://github.com/user-attachments/assets/af62034b-3914-4e2b-abd2-f673925a0dc2" />
 
 ## Задача 3. Поиск максимального
 
@@ -439,7 +439,7 @@ arr=[1,-2,-7,4,2,2,5]
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="179" height="181" alt="image" src="https://github.com/user-attachments/assets/a83e2109-1067-400a-9996-24c88acfe332" />
 
 ## Задача 5. Добавление массива в массив
 
@@ -461,7 +461,7 @@ pos=3
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="305" height="387" alt="image" src="https://github.com/user-attachments/assets/a0e6f6d9-0b10-4415-ba4f-dc269abc7da1" />
 
 ## Задача 7. Возвратный реверс
 
@@ -481,7 +481,7 @@ arr=[1,2,3,4,5]
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="240" height="267" alt="image" src="https://github.com/user-attachments/assets/20caa374-b1d4-4a12-b051-cb527dc67e2d" />
 
 ## Задача 9. Все вхождения
 
@@ -502,4 +502,4 @@ x=2
 
 ### Тестирование
 
-<!-- скриншот -->
+<img width="233" height="329" alt="image" src="https://github.com/user-attachments/assets/ede76f0d-c7db-4845-bb22-46ca59e13253" />
